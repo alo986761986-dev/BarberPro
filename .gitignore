@@ -1,0 +1,16 @@
+# Node	node_modules/
+npm-debug.log
+.env
+
+# Expo / React Native
+.expo/
+.expo-shared/
+android/
+ios/
+
+# Optional / recommended extras
+.DS_Store
+*.log
+dist/
+build/
+coverage/
